@@ -59,7 +59,7 @@
         <jqa-maven-plugin.version>1.13.0-SNAPSHOT</jqa-maven-plugin.version>
 
         <!--
-         ! Versions of the plugins to be include an a release.
+         ! Versions of the plugins to be included a release.
          !-->
         <jqa-asciidoc-report-plugin.version>1.13.0-SNAPSHOT</jqa-asciidoc-report-plugin.version>
         <jqa-cdi-plugin.version>1.13.0-SNAPSHOT</jqa-cdi-plugin.version>
